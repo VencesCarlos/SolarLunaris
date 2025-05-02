@@ -1,0 +1,32 @@
+# Blender 4.3.2 MTL File: 'tanque_oxigeno.blend'
+# www.blender.org
+
+newmtl color_cilindro
+Ns 664.160767
+Ka 0.755906 0.755906 0.755906
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd color_cilindro.png
+
+newmtl dispensador_material
+Ns 453.236389
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd dispensador.png
+
+newmtl material_valvula
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd valvula.jpg
