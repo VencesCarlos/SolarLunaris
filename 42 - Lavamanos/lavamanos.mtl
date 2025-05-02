@@ -1,0 +1,22 @@
+# Blender 4.3.2 MTL File: 'lavamanos.blend'
+# www.blender.org
+
+newmtl blanco_ceramica
+Ns 849.853516
+Ka 0.117188 0.117188 0.117188
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd blanco_ceramica.png
+
+newmtl metal
+Ns 722.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd metal_llave.png
