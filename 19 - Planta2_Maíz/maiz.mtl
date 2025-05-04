@@ -1,0 +1,22 @@
+# Blender 4.3.2 MTL File: 'maiz.blend'
+# www.blender.org
+
+newmtl granos
+Ns 99.200218
+Ka 0.511811 0.511811 0.511811
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd grano.png
+
+newmtl hojas
+Ns 38.750088
+Ka 0.740157 0.740157 0.740157
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd hojas.jpg
