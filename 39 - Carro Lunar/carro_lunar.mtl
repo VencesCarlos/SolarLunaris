@@ -1,0 +1,12 @@
+# Blender 4.3.2 MTL File: 'carro_lunar.blend'
+# www.blender.org
+
+newmtl textura_carro
+Ns 763.903503
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textura_carro.png

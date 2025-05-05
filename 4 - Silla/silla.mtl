@@ -1,0 +1,12 @@
+# Blender 4.3.2 MTL File: 'silla.blend'
+# www.blender.org
+
+newmtl Muebles
+Ns 665.444885
+Ka 0.228346 0.228346 0.228346
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd MueblesTexture.png
